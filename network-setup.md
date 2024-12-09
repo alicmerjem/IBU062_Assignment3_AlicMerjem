@@ -25,6 +25,14 @@
 - **Model**: PC
 - **IP**: 210.3.14.4 (DHCP assigned IP)
 
+### PC 4
+- **Model**: PC
+- **IP**: 168.90.0.6 (DHCP assigned IP)
+
+### PC 5
+- **Model**: PC
+- **IP**: 210.3.14.5 (DHCP assigned IP)
+
 ### Server 1
 - **Model**: Server
 - **IP**: 168.90.0.5 (DHCP assigned IP)
